@@ -1,0 +1,114 @@
+[
+  {
+      "id": 1,
+      "name": "WHOLE CASTLE CLEAN-UP",
+      "title": "Enchanting Whole House Makeover!",
+      "price": 27.50,
+      "category": "Services",
+      "image": "/Assets/whole-house.gif",
+      "image2": "/Assets/whole-house2.png"
+  },
+  {
+      "id": 2,
+      "name": "ONE-ROOM PICK UP (INCLUDES BASEMENT AND ATTIC)",
+      "title": "Room Rejuvenation: Magic Meets Cleanliness!",
+      "price": 22.50,
+      "category": "Services",
+      "image": "/Assets/one-room.gif",
+      "image2": "/Assets/one-room2.png"
+  },
+  {
+      "id": 3,
+      "name": "FAIRY DEEP CLEAN",
+      "title": "Fairy Deep Dust: Where Our True Magic Comes to Play!",
+      "price": 33.50,
+      "category": "Services",
+      "image": "/Assets/deep-clean.gif",
+      "image2": "/Assets/deep-clean2.png"
+  },
+  {
+      "id": 4,
+      "name": "LAUNDRY",
+      "title": "Laundry Magic: Let's Make Your Clothes Sparkle!",
+      "price": 1.25,
+      "priceType": "per pound",
+      "category": "Services",
+      "image": "/Assets/laundry.gif",
+      "image2": "/Assets/laundry2.png"
+  },
+  {
+      "id": 5,
+      "name": "INTERIOR CAR CLEANING",
+      "title": "Car Spa Day! Fairy Touch for that Extra Shine",
+      "price": 19.50,
+      "category": "Services",
+      "image": "/Assets/car.gif",
+      "image2": "/Assets/car2.png"
+  },
+  {
+      "id": 6,
+      "name": "OFFICIAL OFFICE CLEANING!",
+      "title": "Fairy Dusting Your Office to Perfection!",
+      "price": 29.50,
+      "category": "Services",
+      "image": "/Assets/office.gif",
+      "image2": "/Assets/office2.png"
+  },
+  {
+      "id": 7,
+      "name": "CUSTOMIZED PACKAGE (MUST CALL)",
+      "title": "Customized Magic: Tailored Cleaning Solutions!",
+      "price": 0,
+      "category": "Services",
+      "image": "/Assets/customized.gif",
+      "image2": "/Assets/customized2.png"
+  },
+  {
+      "id": 8,
+      "name": "ORGANIC/ECO/PET FRIENDLY CLEAN",
+      "title": "Pure Magic: Eco-Friendly Fairy Clean!",
+      "price": 1.75,
+      "category": "Services",
+      "image": "/Assets/eco-friendly.gif",
+      "image2": "/Assets/eco-friendly2.png"
+  },
+  {
+      "id": 9,
+      "name": "RETURNING PLAN!",
+      "title": "Returning to Fairytale Cleanliness Can Save You 25-45% Off!",
+      "price": 0,
+      "category": "Promotion",
+      "image": "/Assets/returning.gif",
+      "image2": "/Assets/returning2.png"
+  },
+  {
+      "id": 10,
+      "name": "REFERRAL PROGRAM!",
+      "title": "Spread the Magic: Refer for Sparkle Rewards!",
+      "price": 0,
+      "category": "Promotion",
+      "image": "/Assets/referal_award.gif",
+      "image2": "/Assets/referal_award2.png"
+  },
+  {
+      "id": 11,
+      "severityLevel": "Light",
+      "descr": "Ideal for regular maintenance cleaning. Each room typically takes around 45 minutes to an hour with two cleaners.",
+      "price": 0,
+      "image": "/Assets/light.jpg"
+  },
+  {
+      "id": 12,
+      "severityLevel": "Moderate",
+      "descr": "Suitable for spaces with a bit more mess or clutter. Expect around 1.5 to 2.5 hours per room with two cleaners.",
+      "price": 2.25,
+      "image": "/Assets/moderate.jpg"
+  },
+  {
+      "id": 13,
+      "severityLevel": "Severe",
+      "descr": "For heavily soiled or unsanitary environments requiring extensive cleaning and potentially protective gear. Cleanup may exceed 3 hours or span multiple days.",
+      "price": 5.50,
+      "image": "/Assets/severe.jpg"
+  }
+]

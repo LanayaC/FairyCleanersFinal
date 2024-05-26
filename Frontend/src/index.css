@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Apply default font family and color */
+body {
+    @apply font-poppins text-purple-950;
+}
+
+/* Tailwind CSS custom font family */
+@layer base {
+    .font-poppins {
+        font-family: 'Poppins', sans-serif;
+    }
+}
+
+.text-gradient {
+    background: linear-gradient(to left, #9371ddbd, #d06299);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.text-gradient2 {
+    background: linear-gradient(to left, #98c3e8bd, #a4bae3,#8f43a2);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.text-gradient3 {
+    background: linear-gradient(to left, #b470b4bd, #d2abd4,#8f43a2);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+.text-gradient4 {
+    background: linear-gradient(to left, #829bcaa9,#7e55ad);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.text-gradient5 {
+    background: linear-gradient(to left, #ada94ca9,hsl(201, 57%, 55%), #7e55ad );
+    -webkit-background-clip: text;
+    color: transparent;
+}
